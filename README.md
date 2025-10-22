@@ -11,16 +11,6 @@ Each term is displayed in a card layout for easy readability and an engaging use
 - Card-based glossary entries
 - Clean typography and modern UI
 
-## 📁 Structure
-tech-glossary-html-css/
-│
-├── index.html
-├── styles/
-│ └── style.css
-└── assets/
-├── images/
-└── icons/
-
 ## 🛠️ Tech Stack
 - HTML5  
 - CSS3  
